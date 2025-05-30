@@ -44,7 +44,7 @@ public class Home extends javax.swing.JFrame {
         user.setForeground(new java.awt.Color(0, 51, 102));
         user.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         user.setText("John");
-        jPanel1.add(user, new org.netbeans.lib.awtextra.AbsoluteConstraints(167, 224, 245, 60));
+        jPanel1.add(user, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 220, 510, 60));
 
         jLabel7.setBackground(new java.awt.Color(255, 255, 255));
         jLabel7.setFont(new java.awt.Font("Segoe UI Light", 0, 14)); // NOI18N
